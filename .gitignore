@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Yii template
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+wap/assets/*
+!wap/assets/.gitignore
+wap/protected/runtime/*
+!wap/protected/runtime/.gitignore
+wap/protected/data/*.db
+wap/themes/classic/views/
+backend/assets/*
+!backend/assets/.gitignore
+backend/protected/runtime/*
+!backend/protected/runtime/.gitignore
+backend/protected/data/*.db
+backend/themes/classic/views/
+.idea/*
