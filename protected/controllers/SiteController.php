@@ -8,8 +8,6 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        echo 123;
-        exit;
         $this->render('index');
     }
 }
